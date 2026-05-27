@@ -10,12 +10,12 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/SEU_USUARIO">
+  <a href="https://linkedin.com/in/pedroafonsobrr05/">
     <img src="https://img.shields.io/badge/LinkedIn-Pedro_Afonso-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:seuemail@exemplo.com">
-    <img src="https://img.shields.io/badge/Email-seuemail@exemplo.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="pafonsobragaromano@gmail.com">
+    <img src="https://img.shields.io/badge/pafonsobragaromano@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Petrol06.Petrol06&style=flat-square&color=58a6ff" />
