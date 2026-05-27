@@ -1,5 +1,5 @@
 [READMEPEDRO1.md](https://github.com/user-attachments/files/28324422/READMEPEDRO1.md)
-<h1 align="center">Pedro Afonso</h1>
+<h1 align="center">Pedro Afonso Braga Romano Ribeiro</h1>
 
 <p align="center">
   <b>Computer Science Student</b> • <b>Software Development</b> • <b>PUC Minas</b>
