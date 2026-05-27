@@ -86,7 +86,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="pafonsobragaromano@gmail.com">
+  <a href="mailto:pafonsobragaromano@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
 </p>
