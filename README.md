@@ -82,11 +82,11 @@
 ## 🌐 Conecte-se comigo
 
 <p align="center">
-  <a href="https://linkedin.com/in/SEU_USUARIO">
+  <a href="https://linkedin.com/in/pedroafonsobrr05/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:seuemail@exemplo.com">
+  <a href="pafonsobragaromano@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
 </p>
