@@ -1,134 +1,92 @@
-[README2.md](https://github.com/user-attachments/files/28324408/README2.md)
-<div align="center">
+[READMEPEDRO1.md](https://github.com/user-attachments/files/28324422/READMEPEDRO1.md)
+<h1 align="center">Pedro Afonso</h1>
 
-**`$ whoami`**
+<p align="center">
+  <b>Computer Science Student</b> • <b>Software Development</b> • <b>PUC Minas</b>
+</p>
 
-```
-Estudante de Ciência da Computação · PUC Minas Poços de Caldas · 5º Semestre
-Interesse em: Desenvolvimento de Software · DevOps · Boas Práticas de Engenharia
-```
+<p align="center">
+  Building real solutions, writing clean code, and growing one project at a time.
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro_Afonso-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Petrol06-181717?style=flat-square&logo=github)](https://github.com/Petrol06)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Petrol06.Petrol06&style=flat-square&color=0d1117)
-
-</div>
-
----
-
-## `> cat about_me.txt`
-
-```bash
-$ whoami
-  Pedro Afonso
-  CS Student @ PUC Minas — Poços de Caldas, MG 🇧🇷
-
-$ cat interests.txt
-  [+] Desenvolvimento de Software Full-Stack
-  [+] Boas Práticas de Engenharia & Clean Code
-  [+] Versionamento & Colaboração com Git
-  [+] Banco de Dados & Modelagem de Dados
-  [+] Automação & Scripting
-
-$ echo $STATUS
-  Buscando estágio em TI | Construindo soluções reais
-```
+<p align="center">
+  <a href="https://linkedin.com/in/SEU_USUARIO">
+    <img src="https://img.shields.io/badge/LinkedIn-Pedro_Afonso-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:seuemail@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-seuemail@exemplo.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Petrol06.Petrol06&style=flat-square&color=58a6ff" />
+</p>
 
 ---
 
-## `> ls -la tech_stack/`
+## 👨‍💻 Sobre mim
 
-<div align="center">
-
-### Linguagens
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-### Ferramentas & Ambiente
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-</div>
+- 🎓 Estudante de Ciência da Computação — PUC Minas, Poços de Caldas (5º Semestre)
+- 💻 Focado em **Desenvolvimento de Software** e boas práticas de engenharia
+- 🧱 Interesse em **Arquitetura de Software**, **APIs REST** e **Bancos de Dados**
+- 🔧 Gosto de resolver problemas reais com código limpo e bem estruturado
+- 🚀 Sempre aprendendo e buscando o próximo desafio
 
 ---
 
-## `> cat learning.log`
+## 🛠️ Tech Stack
 
-```
-[2025] ──────────────────────────────────────────────────────────
-  [✓] Autômatos, Linguagens Formais e Computabilidade (TCLF)
-  [✓] Estruturas de Dados e Algoritmos
-  [~] Fundamentos de Redes e Protocolos
-  [~] Banco de Dados Relacional & SQL avançado
-
-[2026] ──────────────────────────────────────────────────────────
-  [→] Desenvolvimento Full-Stack (Node.js + React)
-  [→] Padrões de Projeto & Arquitetura de Software
-  [→] APIs REST & integração com serviços externos
-  [→] Boas práticas de versionamento e CI/CD
-```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,py,js,html,css,sql,linux,git,docker,bash,vscode&perline=6" />
+</p>
 
 ---
 
-## `> ./projects --list`
+## 🔍 No que estou trabalhando
 
-### 🎮 [Checkfolio](https://github.com/Petrol06/Checkfolio)
-```
-Aplicação full-stack para organizar backlog de jogos,
-acompanhar progresso e descobertas via API de jogos.
-
-Stack: JavaScript · API Integration · Full-Stack
-```
+- 🎮 **Checkfolio** — Aplicação full-stack para organizar backlog de jogos, progresso e descobertas via API
+- 📐 **Padrões de Projeto** — Estudando arquitetura e boas práticas de design de software
+- 🔗 **APIs REST** — Integrações e consumo de serviços externos com JavaScript e Python
+- 🗄️ **Banco de Dados** — Modelagem relacional e SQL avançado
 
 ---
 
-## `> cat mindset.txt`
+## 📊 GitHub Stats
 
-```
-"Primeiro faça funcionar. Depois faça certo. Depois faça rápido."
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Petrol06&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117"
+    height="165"
+    alt="GitHub Stats"
+  />
+</p>
 
-Cada projeto é uma oportunidade de aprender algo novo,
-escrever código mais limpo e entregar mais valor.
-```
-
----
-
-## `> stats --github`
-
-<div align="center">
-
-![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Petrol06&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Petrol06&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117)
-
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Petrol06&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117"
+    height="165"
+    alt="Top Languages"
+  />
+</p>
 
 ---
 
-## `> ./contact.sh`
+## 🎯 Objetivos
 
-```bash
-$ echo "Vamos nos conectar!"
-
-  LinkedIn  →  linkedin.com/in/SEU_USUARIO
-  Email     →  seuemail@exemplo.com
-  GitHub    →  github.com/Petrol06
-
-# Aberto para estágios, projetos e colaborações 🚀
-```
-
-<div align="center">
+- 💼 Conquistar meu primeiro estágio em TI
+- 🏗️ Construir projetos com impacto real
+- 📚 Dominar fundamentos sólidos de engenharia de software
+- 🌱 Crescer como desenvolvedor e colaborador em equipe
 
 ---
 
-```
-[ Missão ativa: conseguir o primeiro estágio em TI ]
-[ Status: online ]
-```
+## 🌐 Conecte-se comigo
 
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/SEU_USUARIO">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:seuemail@exemplo.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+</p>
